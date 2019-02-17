@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  app:
+    build: .
+    image: mattipaksula/serf:0.8.2
